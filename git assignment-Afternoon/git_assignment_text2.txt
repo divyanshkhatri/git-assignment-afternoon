@@ -1,2 +1,0 @@
-This is the second git assignment - fileName - second.txt
-This is the pull request branch.
